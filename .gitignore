@@ -1,0 +1,6 @@
+node_modules/
+db.sqlite
+cds.log
+.env
+default-env.json
+.cdsrc-private.json
